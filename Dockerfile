@@ -1,4 +1,5 @@
-FROM daocloud.io/fanhantianxia/matlab_config
+#FROM daocloud.io/fanhantianxia/matlab_config
+FROM xin0214/matlab_config:latest
 
 MAINTAINER Yu Fan <747336771@qq.com>
 
